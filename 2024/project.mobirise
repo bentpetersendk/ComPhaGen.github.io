@@ -33,7 +33,7 @@
       "additionalSetColors": []
     },
     "path": "@PROJECT_PATH@",
-    "name": "ComPhaGen2023",
+    "name": "ComPhaGen2024",
     "versionFirst": "5.9.0",
     "siteFonts": [
       {
@@ -52,7 +52,7 @@
     "versionPublish": "5.9.0",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/whatsapp-image-2023-08-24-at-15.26.13-128x134.png",
-    "mbrsiteDomain": "cqhh2p6pac",
+    "mbrsiteDomain": "u74viglomc",
     "usedWebp": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
